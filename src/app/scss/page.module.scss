@@ -1,0 +1,15 @@
+.main {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+    padding: 2rem;
+}
+
+.main_container {
+    h1 {
+        color: white;
+    }
+}

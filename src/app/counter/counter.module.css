@@ -1,0 +1,19 @@
+.btn {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1.4rem;
+}
+
+.btn button{
+    padding: 1rem;
+    border: none;
+    color: black;
+    background-color: aquamarine;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.padding{
+    padding: 2rem;
+}
