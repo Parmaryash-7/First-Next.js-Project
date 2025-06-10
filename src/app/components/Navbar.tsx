@@ -24,11 +24,11 @@ export default function Navbar() {
           <Link href="/product">Product</Link>
         </nav>
 
-        {/* <div className={styles.hamburger} onClick={() => setMenuOpen(!menuOpen)}>
+        <div className={styles.hamburger} onClick={() => setMenuOpen(!menuOpen)}>
           <span></span>
           <span></span>
           <span></span>
-        </div> */}
+        </div>
       </div>
     </header>
   );
